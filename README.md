@@ -1,2 +1,2 @@
-# mi-primer-repositorio
+# mi primer README
 Estoy practicando con creación de repositorios...
